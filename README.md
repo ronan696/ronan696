@@ -11,8 +11,6 @@
 - Have a keen interest in designing, graphics and photo manipulation.
 
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Elixir icon</title><path d="M19.789,16.578c0,3.75-2.926,7.422-7.739,7.422c-5.246,0-7.839-3.708-7.839-8.285 c0-5.207,3.89-12.946,7.995-15.639c0.277-0.182,0.643,0.041,0.611,0.371c-0.03,0.313-0.046,0.631-0.046,0.951 c0,2.067,0.641,3.985,1.738,5.563c0.522,0.795,1.092,1.477,1.763,2.351c0.94,1.226,1.636,1.905,2.642,3.84 c0.005,0.01,0.01,0.018,0.015,0.028C19.48,14.197,19.789,15.352,19.789,16.578z"/></svg>
-
 ## Tech/Software Stack
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=java&message=Java&label=&color=007396&labelColor=000000)
@@ -51,34 +49,20 @@
 </a>
 </p>
 
+<p align="center">
+<h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
 
-### Connect with me
-<a href="https://www.linkedin.com/in/ronan696/">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ronan696">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>
+<h3>Check out my work</h3>
+<a href="https://github.com/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
+<a href="https://dribbble.com/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
 
-### Check out my work
-<a href="https://github.com/ronan696">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>&nbsp;&nbsp;
-<a href="https://dribbble.com/ronan696">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>
-
-### Follow me
-<a href="https://www.instagram.com/ronan696/">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/ronan696">
-![reddit](https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg "reddit")
-</a>
-
+<h3>Follow me</h3>
+<a href="https://www.instagram.com/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
+<a href="https://pinterest.com/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+</p>
 
 <br/>
 
