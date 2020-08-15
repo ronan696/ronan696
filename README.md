@@ -4,14 +4,10 @@
 
 ## About Me
 
-- A software engineer who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
-
+- A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
 - Working as a **Backend Developer** for _IBM Content Collector - Email, Sharepoint and File Systems_.
-
-- Trying my hand with Frontend and currently working on a Vue/Gridsome side-project.
-
-- Frequently automating tasks to make life easier. Primarily using Python, but also occasionally PowerShell.
-
+- Experimenting with the **Frontend** as well and currently working on a Vue/Gridsome side-project.
+- Frequently **automating tasks** to make life easier. Primarily using Python, but also occasionally PowerShell.
 - Have a keen interest in designing, graphics and photo manipulation.
 
 ## Tech/Software Stack
@@ -47,8 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/ronan696">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />&nbsp;
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
 </a>
 </p>
 </center>
