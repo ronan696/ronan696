@@ -50,18 +50,26 @@
 </p>
 
 <p align="center">
-<h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
 
+
+<p align="center">
+<h3>Connect with me</h3>
+<a href="https://www.linkedin.com/in/ronan696/"><img width="32" height="32" title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+</p>
+
+<p align="center">
 <h3>Check out my work</h3>
 <a href="https://github.com/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
 <a href="https://dribbble.com/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+</p>
 
+<p align="center">
 <h3>Follow me</h3>
 <a href="https://www.instagram.com/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
 <a href="https://pinterest.com/ronan696/"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>&nbsp;&nbsp;
 <a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+</p>
 </p>
 
 <br/>
