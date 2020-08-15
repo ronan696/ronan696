@@ -47,7 +47,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
 </a>
 </p>
-</center>
 
 <center>
 
