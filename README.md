@@ -7,7 +7,7 @@
 - A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
 - Working as a **Backend Developer** for _IBM Content Collector - Email, Sharepoint and File Systems_.
 - Experimenting with the **Frontend** as well and currently working on a Vue/Gridsome side-project.
-- Frequently **automating tasks** to make life easier. Primarily using Python, but also occasionally PowerShell.
+- Enjoys **automating tasks** to make life easier. Primarily with Python, but also occasionally with PowerShell.
 - Have a keen interest in designing, graphics and photo manipulation.
 
 
