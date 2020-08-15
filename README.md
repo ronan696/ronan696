@@ -49,6 +49,8 @@
 </a>
 </p>
 
+<hr/>
+
 <p align="center">
 
 <h3 align="center">Connect with me</h3>
@@ -72,7 +74,3 @@
 <a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
 </p>
 </p>
-
-<br/>
-
-![Imgur](https://i.imgur.com/1f8Nk9e.png)
