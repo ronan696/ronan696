@@ -1,6 +1,6 @@
 ![Ronan696](https://i.imgur.com/5i0MOZL.png "Ronan696")
 
-# Hello! I'm **Ronan D'Souza**.
+# Hello! I'm Ronan D'Souza.
 
 ## About Me
 
