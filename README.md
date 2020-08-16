@@ -1,7 +1,5 @@
 ![Ronan696](https://i.imgur.com/5i0MOZL.png "Ronan696")
 
-# Hello! I'm Ronan D'Souza.
-
 ## About Me
 
 - A **Software Engineer** who loves exploring new technologies, building small projects, innovating and tinkering with stuff.
@@ -42,9 +40,12 @@
 ![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
 <br/><br/>
 
+
 <p align="center">
 <a href="https://github.com/ronan696">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ronan696&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/ronan696">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronan696&layout=compact&theme=great-gatsby" />
 </a>
 </p>
