@@ -71,7 +71,6 @@
 <h3 align="center">Follow me</h3>
 <p align="center">
 <a href="https://www.instagram.com/ronan696/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/u/ronan696"><img title="reddit" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/reddit.svg"/></a>
+<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>
 </p>
 </p>
