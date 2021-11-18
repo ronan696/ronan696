@@ -67,10 +67,3 @@
 <a href="https://dribbble.com/ronan696"><img title="Dribbble" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/dribbble.svg"/></a>
 </p>
 
-
-<h3 align="center">Follow me</h3>
-<p align="center">
-<a href="https://www.instagram.com/ronan696/"><img title="Instagram" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/instagram.svg"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/ronan696/"><img title="Pinterest" src="https://raw.githubusercontent.com/ronan696/ronan696/master/assets/pinterest.svg"/></a>
-</p>
-</p>
